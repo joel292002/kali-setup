@@ -1,1 +1,3 @@
 Kali linux installed on Thu Mar 20 01:21:59 PM EDT 2025
+kali
+Do you want to install it? (N/y)Do you want to install it? (N/y)
