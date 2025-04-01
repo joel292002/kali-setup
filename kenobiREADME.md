@@ -15,7 +15,6 @@ nmap -sC -sV -p- -oN scan.txt <Target_IP>
 Findings:
 
 
-![Kenobi ReadMe](https://raw.githubusercontent.com/joel292002/kali-setup/main/findings.jpeg)
 
 
 
