@@ -14,7 +14,8 @@ nmap -sC -sV -p- -oN scan.txt <Target_IP>
 
 Findings:
 
-<img src="https://raw.githubusercontent.com/joel292002/kali-setup/main/findings.jpeg" width="500">
+![Kenobi Write-Up](https://raw.githubusercontent.com/joel292002/kali-setup/main/findings.jpeg)
+
 
 
 
