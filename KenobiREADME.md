@@ -14,4 +14,3 @@ nmap -sC -sV -p- -oN scan.txt <Target_IP>
 
 Findings:
 ![Image](https://github.com/user-attachments/assets/b5b8441f-08f9-45f9-89eb-e9f1275f903e)
-
