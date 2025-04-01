@@ -13,4 +13,4 @@
 nmap -sC -sV -p- -oN scan.txt <Target_IP>
 
 Findings:
-![Image](https://github.com/user-attachments/assets/b5b8441f-08f9-45f9-89eb-e9f1275f903e)
+![Image](https://github.com/joel292002/kali-setup/blob/4c690d28c70e172e6b95219890205da1afa86583/WhatsApp%20Image%202025-04-01%20at%209.18.16%20PM.jpeg)
