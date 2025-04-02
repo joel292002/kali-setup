@@ -30,7 +30,7 @@ Findings :
 bash
 
 
-showmount -e <Target_IP>
+showmount -e 10.10.73.74
 
 
 
