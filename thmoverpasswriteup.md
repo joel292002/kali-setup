@@ -20,6 +20,7 @@ PORT   STATE SERVICE VERSION
 22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
 80/tcp open  http    Golang net/http server (Go-IPFS json-rpc or InfluxDB API)
 ```
+![Image](https://github.com/user-attachments/assets/916a3e7a-c3b4-4ff7-aaad-d3acb5e6f7ed)
 
 A Golang-based HTTP server and an SSH service were open. We moved on to investigate the web server.
 
@@ -115,7 +116,7 @@ After triggering the reverse shell from the victim, a connection was received on
 ---
 
 ## proof of completion 
-
+![Image](https://github.com/user-attachments/assets/03f63654-e29c-4240-975a-f849e4eb4042)
 
 
  
